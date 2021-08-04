@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'Người Thích Mày ',
     btnNo: 'Người Mày Thích :3',
     question:'Tao Thích Mày . Cho Tao Cơ Hội Nhé!!😶',
-    btnReply: ' Được Chứ? <3',
+    btnReply: ' Gửi Câu Trả Lời <3',
     reply: 'Được Được Được ',
     mess: 'Thankiu Mylove 😘😘',
     messDesc: ' LOVE YOU.',
