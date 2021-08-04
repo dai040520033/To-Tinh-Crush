@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'Hello!',
     introDesc: `Chúc Thanh Thanh Một Ngày Tốt Lành`,
     btnIntro: ' Tiếp Tục ',
-    title: 'Mày cứ bị đáng yếu ấyy!!',
+    title: 'Mày cứ bị " ĐÁNG YÊU " ấyy!!',
     desc: 'Giữa Người Mày Thích Và Người Thích Mày . Mày Sẽ Chọn?',
     btnYes: 'Người Thích Mày ',
     btnNo: 'Người Mày Thích :3',
